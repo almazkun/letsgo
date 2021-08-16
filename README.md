@@ -1,2 +1,4 @@
 # letsgo
-Let's golfing!
+Let's golang!
+
+https://golang.org/doc/tutorial/getting-started
