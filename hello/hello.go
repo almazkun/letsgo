@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	
+	"akun.dev/greetings"
+)
 
 func main() {
-    fmt.Println("Hello, World!")
+	message := greetings.Hello("Yelena")
+	fmt.Println(message)
 }
